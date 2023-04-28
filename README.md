@@ -19,7 +19,7 @@
 
 ### Who we are?
 - [Tuğba Yavuz](https://github.com/tugbayavuzz "Tuğba Yavuz")
-- [Zeynep Yüksel](https://github.com/zeynep-turker "Zeynep Türker")
+- [Zeynep Türker](https://github.com/zeynep-turker "Zeynep Türker")
 - [Ömer Bitikçioğlu](https://github.com/omerbitikcioglu "Ömer Bitikçioğlu")
 - [Canberk Bibican](https://github.com/canberkb8 "Canberk Bibican")
 - [Süleyman Sezer](https://github.com/iamcodder "Süleyman Sezer")
